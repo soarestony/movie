@@ -6,10 +6,3 @@ Comandos para execução da aplicação:
 2) npm install react-scripts --save
 3) npm i jquery
 4) npm start
-
-
-
-Será necessário ter o mesmo rodando e o ajax, para que faça a conexão com a api.
-
-Executar ### `npm start` dentro da pasta do projeto ou (de preferência) no console do VS Code.
-
