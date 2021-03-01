@@ -1,8 +1,10 @@
-Este é um projeto criado com [React App](https://github.com/facebook/create-react-app).
 
-Comandos para execução da aplicação: 
+# Movies
+Um projeto criado para estudo utilizando react consumindo a API [themoviedb](https://www.themoviedb.org)
 
-1) npm install -g create-react-app
-2) npm install react-scripts --save
-3) npm i jquery
-4) npm start
+## Como executar este projeto
+1. Clone para sua máquina
+2. Execute ``npm install`` para instalar todas dependências do projeto
+3. Execute ``npm start`` para executar o projeto
+
+O projeto será executado em http://localhost:3000
