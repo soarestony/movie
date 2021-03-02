@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://localhost:3000",
+    "env": {
+        "apiUrl": "https://api.themoviedb.org/3",
+        "key": "ac842b1d487387383663a288079b2e67"
+    }
+}
